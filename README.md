@@ -9,3 +9,4 @@ Voici en un schéma, le résumé de notre projet :
 
 <code>![Sysml](/Sysml.png)</code>
 
+Pour en savoir plus, consultez notre rapport ainsi que le journal pour suivre nos péripétie techniques dans le dossier **"DMX---SPOTEX"** !
