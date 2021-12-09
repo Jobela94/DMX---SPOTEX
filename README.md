@@ -3,4 +3,4 @@
 ioiiuiu
 nfnbfdkjgndjkh
 
-![Sysml](/DMX---SPOTEX/Sysml.png)
+![Sysml](/Sysml.png)
