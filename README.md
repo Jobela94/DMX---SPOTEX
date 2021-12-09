@@ -1,15 +1,7 @@
 # DMX---SPOTEX
 
 
-<code>
-      Diagramme Sysml
-      ifdjidfjoidgiohjgoifhijdghjdgho
-      nfguidfhuihguidhujgod
-      ufhuigiufdhujgdohjoigfhiojho
-      fhdiufhsodjoifjhodfjghojgojdhoigjiohgdj
-      loroigougjhigofdjhoi
+      ## Diagramme Sysml
 
 
 ![Sysml](/Sysml.png)
-
-</code>
