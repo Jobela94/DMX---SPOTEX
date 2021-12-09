@@ -1,7 +1,7 @@
 # DMX---SPOTEX
 
 
-<code
+<code>
       Diagramme Sysml
       ifdjidfjoidgiohjgoifhijdghjdgho
       nfguidfhuihguidhujgod
